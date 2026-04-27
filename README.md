@@ -6,13 +6,13 @@
 
 ## 📄 핵심 문서
 
-| 문서                                                          | 설명 |
-|-------------------------------------------------------------| --- |
+| 문서                                                           | 설명                             |
+|--------------------------------------------------------------|--------------------------------|
 | [서비스 정책](./documents/policy/service-policy/ServicePolicy.md) | 회원, 상품, 장바구니, 주문, 쿠폰, 검색 정책 정리 |
-| [팀 협업 정책](./documents/policy/team-policy/TeamPolicy.md)                          | Git 전략, PR 규칙, 테스트 및 협업 방식 정리 |
-| [ERD 설계](./documents/erd/ERD.md)                                     | 데이터베이스 구조, 주요 관계, 설계 포인트 정리 |
-| [API 명세](./documents/api/API.md)                                | 주요 API 목록, 요청/응답 형식, 에러 코드 정리 |
-
+| [팀 협업 정책](./documents/policy/team-policy/TeamPolicy.md)      | Git 전략, PR 규칙, 테스트 및 협업 방식 정리  |
+| [ERD 설계](./documents/erd/ERD.md)                             | 데이터베이스 구조, 주요 관계, 설계 포인트 정리    |
+| [API 명세](./documents/api/API.md)                             | 주요 API 목록, 요청/응답 형식, 에러 코드 정리  |
+| [테스트 케이스](./documents/test/TestCases.md)                     | 테스트 케이스                        |
 ---
 
 ## 🚨 트러블슈팅
