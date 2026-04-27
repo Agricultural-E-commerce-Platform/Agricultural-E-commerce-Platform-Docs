@@ -2,7 +2,7 @@
 
 ## 1. ERD 다이어그램
 
-ERD 이미지
+<img width="1143" height="784" alt="일없슈 ERD(최종)" src="https://github.com/user-attachments/assets/9741ae3f-3721-4637-8ae4-1bdcc44d9c82" />
 
 ---
 
