@@ -112,3 +112,9 @@
 - 서비스 정책, ERD, API 명세는 변경 시 함께 업데이트합니다.
 - 트러블슈팅은 문제 상황, 원인, 해결 방법, 결과를 기준으로 작성합니다.
 - 회의록은 프로젝트 의사결정 이력을 남기는 용도로 관리합니다.
+
+
+---
+
+# ⚖️ License
+This documentation is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
